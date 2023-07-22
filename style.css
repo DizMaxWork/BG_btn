@@ -1,0 +1,22 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 40%;
+    background: #ffffff;
+}
+h1{
+    font-size: 42px;
+}
+button{
+    font-size: 24px;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+p{
+    margin-top: 30px;
+    font-size: 30px;
+}
